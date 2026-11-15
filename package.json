@@ -1,0 +1,1 @@
+{"dependencies":{"snarkjs":"^0.7.6"},"description":"MUSO-1 — Proof Gatekeeper agent for the zkVerify Agent Games: HMAC-verified task intake, deterministic approve/reject policy, local Groth16 proving with snarkjs, optional Kurier submission.","engines":{"node":">=18"},"name":"muso-gatekeeper","private":true,"scripts":{"test":"node test/harness.js"},"version":"1.0.0"}
